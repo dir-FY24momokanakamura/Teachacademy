@@ -1,4 +1,4 @@
-package dbSample;
+package dbSample.entity;
 
 public class Country {
 
@@ -17,7 +17,6 @@ public class Country {
         this.population = population;
     }
 
-    // getter/setter
     public String getName() {
         return name;
     }
